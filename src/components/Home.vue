@@ -108,7 +108,7 @@ export default{
 .btn-link:hover{
     background-color: darkcyan;
     box-shadow: 0 0 10px #297b9c, 0 0 40px #258db6, 0 0 70px #036389;
-    transition-duration: 0.5s;
+    transition-duration: 0.6s;
 }
 
 .lh{

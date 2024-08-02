@@ -41,7 +41,6 @@ export default{
     max-width: 100%;
     max-height: 100vh;
     font-weight: 400;
-    overflow: hidden;
 }
 
 .m10{
@@ -78,13 +77,14 @@ export default{
     justify-content: center;   
     background: rgb(12,18,32);
     background: linear-gradient(90deg, rgba(12,18,32,1) 0%, rgba(14,19,66,1) 53%);
+    overflow: hidden;
 }
 
 .links{
     display: flex;
     flex-direction: column;
     width: 264px;
-    height: 70%;
+    height: 60%;
     align-items: center;
     justify-content: center;
     margin-top: 17px;

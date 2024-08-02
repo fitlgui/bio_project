@@ -101,7 +101,7 @@ export default{
     border-radius: 7px;
     color: white;
     box-shadow: 1 1 10px #025576, 0 0 40px #114b62, 0 0 70px #013c53;
-    text-shadow: 1px 1px white;
+    text-shadow: 1px 1px black;
     font-size: 18px;
 }
 

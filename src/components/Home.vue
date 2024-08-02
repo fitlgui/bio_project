@@ -83,9 +83,11 @@ export default{
     display: flex;
     flex-direction: column;
     width: 264px;
-    height: 60%;
+    height: 70%;
     align-items: center;
     justify-content: center;
+    margin-top: 17px;
+    margin-bottom: 17px;
 }
 
 .btn-link{
@@ -93,8 +95,7 @@ export default{
     width: 222px;
     height: 49px;
     background-color: cyan;
-    margin-bottom: 24px;
-    margin-top: 24px;
+    padding: 10px;
     text-decoration: none;
     justify-content: center;
     align-items: center;

@@ -67,7 +67,7 @@ export default{
 .picture-one{
     width: 250px;
     height: 120px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .single-page{

@@ -2,19 +2,20 @@
 
 <div class="w100 h100 single-page">
      
-    <img class="picture-one" src="../assets/github.svg" alt="">
+    <img class="picture-one" src="../assets/Logo-MTech.svg" alt="">
     <div class="social-media">
-        <a class="lh" href="https://www.instagram.com/guilhermefitl/"><img src="../assets/instagram.svg" alt=""></a>
-        <a class="lh m10" href="https://github.com/fitlgui"><img src="../assets/github.svg" alt=""></a>
-        <a class="lh" href="www.linkedin.com/in/guilhermefitl"><img src="../assets/linkedin.svg" alt=""></a>
+        <a class="lh" href="https://www.instagram.com/teammtech/"><img src="../assets/instagram.svg" alt=""></a>
+        <a class="lh m10" href="https://"><img src="../assets/github.svg" alt=""></a>
+        <a class="lh" href="www.linkedin.com/in"><img src="../assets/linkedin.svg" alt=""></a>
     </div>
     <div class="links">
-        <a class="btn-link" href="https://wa.me/+5565992148174">Falar Comigo</a>
-        <a class="btn-link" href="https://www.linkedin.com/in/guilhermefitl/">Curriculo</a>
-        <a class="btn-link" href="">Em Breve...</a>
+        <a class="btn-link" href="../assets/ROOKIE-BOOK-MTECH.pdf">Rookie Book</a>
+        <a class="btn-link" href="../assets/ROBOT-BOOK-MTECH.pdf">Robot Book</a>
+        <a class="btn-link" href="../assets/MEMORIE-BOOK-MTECH.pdf">Memories Book</a>
+        <a class="btn-link" href="../assets/BUSSINESS-PLAN-MTECH.pdf">Bussiness Plan</a>
     </div>
     <div class="footer-menu">
-        <small>Desenvolvido por @fitlgui</small>
+        <small>Desenvolvido por @teammtech</small>
     </div>
 
 </div>

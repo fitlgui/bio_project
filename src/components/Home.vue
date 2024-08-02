@@ -94,6 +94,7 @@ export default{
     height: 49px;
     background-color: cyan;
     margin-bottom: 24px;
+    margin-top: 24px;
     text-decoration: none;
     justify-content: center;
     align-items: center;

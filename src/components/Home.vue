@@ -93,7 +93,7 @@ export default{
     width: 222px;
     height: 49px;
     background-color: cyan;
-    margin-bottom: 30px;
+    margin-bottom: 24px;
     text-decoration: none;
     justify-content: center;
     align-items: center;

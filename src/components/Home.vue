@@ -95,7 +95,7 @@ export default{
     width: 222px;
     height: 49px;
     background-color: cyan;
-    padding: 10px;
+    margin: 10px;
     text-decoration: none;
     justify-content: center;
     align-items: center;

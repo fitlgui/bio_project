@@ -84,7 +84,7 @@ export default{
     display: flex;
     flex-direction: column;
     width: 264px;
-    height: 60%;
+    height: 55%;
     align-items: center;
     justify-content: center;
     margin-top: 17px;

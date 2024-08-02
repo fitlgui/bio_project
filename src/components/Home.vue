@@ -102,7 +102,6 @@ export default{
     color: white;
     box-shadow: 0.5 0.5 10px #025576, 0 0 40px #114b62, 0 0 70px #013c53;
     text-shadow: 1px 1px gray;
-    font-size: 16px;
 }
 
     

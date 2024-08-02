@@ -115,6 +115,7 @@ export default{
 .lh{
     width: 100px;
     height: 100px;
+    padding: 10px;
 }
 
 .footer-menu{

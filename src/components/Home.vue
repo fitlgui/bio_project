@@ -129,7 +129,7 @@ export default{
 
 @media only screen and (max-width: 600px) {
     .links{
-        height: 30%;
+        height: 44%;
     }
 }
 

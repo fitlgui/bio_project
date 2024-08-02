@@ -127,5 +127,10 @@ export default{
     text-shadow: 1vw 1vw 1vw #000, 0 0 3vw #0e68c7, 0 0 3vw #1682db, 0 0 3vw #15cbad;   
 }
 
+@media only screen and (max-width: 600px) {
+    .links{
+        height: 30%;
+    }
+}
 
 </style>

@@ -65,8 +65,8 @@ export default{
 }
 
 .picture-one{
-    width: 311px;
-    height: 188px;
+    width: 299px;
+    height: 177px;
     margin-bottom: 14px;
 }
 

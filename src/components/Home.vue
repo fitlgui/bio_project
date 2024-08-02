@@ -12,7 +12,7 @@
         <a class="btn-link" href="https://drive.google.com/file/d/1Msh-j1MbIvvMM4FRtzTB7OkqR2cRNm7T/view?usp=sharing">Rookie Book</a>
         <a class="btn-link" href="https://drive.google.com/file/d/1M56YeRA4LGLSXRQ6CR7RV5ahbD9HsRqa/view?usp=sharing">Robot Book</a>
         <a class="btn-link" href="https://drive.google.com/file/d/16ft45Zms0LmNTAcIJ5hv2aEL1RphxISQ/view?usp=sharing">Memories Book</a>
-        <a class="btn-link" href="https://drive.google.com/file/d/1qu8vI4MtV2cWTp3hu6K2Pv5fGf35Hy_W/view?usp=sharing">Bussiness Plan</a>
+        <a class="btn-link" href="https://drive.google.com/file/d/1qu8vI4MtV2cWTp3hu6K2Pv5fGf35Hy_W/view?usp=sharing">Business Plan</a>
     </div>
     <div class="footer-menu">
         <small>Desenvolvido por @teammtech</small>

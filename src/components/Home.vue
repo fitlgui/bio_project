@@ -65,9 +65,9 @@ export default{
 }
 
 .picture-one{
-    width: 280px;
-    height: 140px;
-    margin-bottom: 20px;
+    width: 299px;
+    height: 166px;
+    margin-bottom: 14px;
 }
 
 .single-page{

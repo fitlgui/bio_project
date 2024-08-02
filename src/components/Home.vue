@@ -87,7 +87,7 @@ export default{
     height: 60%;
     align-items: center;
     justify-content: center;
-    font-size: 22px;
+    font-size: 19px;
 }
 
 .btn-link{

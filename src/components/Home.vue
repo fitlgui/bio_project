@@ -65,8 +65,8 @@ export default{
 }
 
 .picture-one{
-    width: 333px;
-    height: 199px;
+    width: 311px;
+    height: 188px;
     margin-bottom: 10px;
 }
 
@@ -87,7 +87,7 @@ export default{
     height: 60%;
     align-items: center;
     justify-content: center;
-    font-size: 19px;
+    font-size: 18px;
 }
 
 .btn-link{

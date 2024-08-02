@@ -87,13 +87,14 @@ export default{
     height: 60%;
     align-items: center;
     justify-content: center;
+    font-size: 22px;
 }
 
 .btn-link{
     display: flex;
     width: 222px;
     height: 49px;
-    background-color: cyan;
+    background-color: rgba(0, 255, 255, 0.749);
     margin-bottom: 33px;
     text-decoration: none;
     justify-content: center;

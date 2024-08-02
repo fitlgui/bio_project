@@ -41,6 +41,7 @@ export default{
     max-width: 100%;
     max-height: 100vh;
     font-weight: 400;
+    overflow: hidden;
 }
 
 .m10{

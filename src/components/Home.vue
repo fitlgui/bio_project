@@ -67,7 +67,6 @@ export default{
 .picture-one{
     width: 250px;
     height: 120px;
-    margin-bottom: 10px;
 }
 
 .single-page{
@@ -94,7 +93,7 @@ export default{
     width: 222px;
     height: 49px;
     background-color: cyan;
-    margin-bottom: 33px;
+    margin-bottom: 30px;
     text-decoration: none;
     justify-content: center;
     align-items: center;
@@ -115,7 +114,6 @@ export default{
 .lh{
     width: 100px;
     height: 100px;
-    padding: 10px;
 }
 
 .footer-menu{

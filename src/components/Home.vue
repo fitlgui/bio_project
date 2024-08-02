@@ -9,10 +9,10 @@
         <a class="lh" href="www.linkedin.com/in"><img src="../assets/linkedin.svg" alt=""></a>
     </div>
     <div class="links">
-        <a class="btn-link" href="../assets/ROOKIE-BOOK-MTECH.pdf">Rookie Book</a>
-        <a class="btn-link" href="../assets/ROBOT-BOOK-MTECH.pdf">Robot Book</a>
-        <a class="btn-link" href="../assets/MEMORIE-BOOK-MTECH.pdf">Memories Book</a>
-        <a class="btn-link" href="../assets/BUSSINESS-PLAN-MTECH.pdf">Bussiness Plan</a>
+        <a class="btn-link" href="https://drive.google.com/file/d/1Msh-j1MbIvvMM4FRtzTB7OkqR2cRNm7T/view?usp=sharing">Rookie Book</a>
+        <a class="btn-link" href="https://drive.google.com/file/d/1M56YeRA4LGLSXRQ6CR7RV5ahbD9HsRqa/view?usp=sharing">Robot Book</a>
+        <a class="btn-link" href="https://drive.google.com/file/d/16ft45Zms0LmNTAcIJ5hv2aEL1RphxISQ/view?usp=sharing">Memories Book</a>
+        <a class="btn-link" href="https://drive.google.com/file/d/1qu8vI4MtV2cWTp3hu6K2Pv5fGf35Hy_W/view?usp=sharing">Bussiness Plan</a>
     </div>
     <div class="footer-menu">
         <small>Desenvolvido por @teammtech</small>
@@ -76,10 +76,8 @@ export default{
     flex-direction: column;
     align-items: center;
     justify-content: center;   
-    background: #2980b9;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    background: rgb(12,18,32);
+    background: linear-gradient(90deg, rgba(12,18,32,1) 0%, rgba(14,19,66,1) 53%);
 }
 
 .links{

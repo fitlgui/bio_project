@@ -65,9 +65,9 @@ export default{
 }
 
 .picture-one{
-    width: 299px;
-    height: 177px;
-    margin-bottom: 18px;
+    width: 250px;
+    height: 120px;
+    margin-bottom: 20px;
 }
 
 .single-page{
@@ -87,14 +87,13 @@ export default{
     height: 60%;
     align-items: center;
     justify-content: center;
-    font-size: 18px;
 }
 
 .btn-link{
     display: flex;
     width: 222px;
     height: 49px;
-    background-color: rgba(0, 255, 255, 0.749);
+    background-color: cyan;
     margin-bottom: 33px;
     text-decoration: none;
     justify-content: center;
